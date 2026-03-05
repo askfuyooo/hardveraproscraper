@@ -1,0 +1,24 @@
+{
+  "name": "hardveraproscraper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/main.ts",
+  "scripts": {
+    "start": "tsx ."
+  },
+  "keywords": [],
+  "author": "Fuyooo",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "jsdom": "^27.4.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/jsdom": "^27.0.0",
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0"
+  }
+}
